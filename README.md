@@ -16,6 +16,19 @@
 
 7. Those equities are common in "Monthly Stocks Investment Plan", local bank offers.
 
+## Result
+
+```
+> python buy_cross_chan_exit.py | grep pct
+pct_chg(0027)=16.34%
+pct_chg(0066)=12.68%
+pct_chg(0762)=0.67%
+pct_chg(1038)=23.40%
+pct_chg(1928)=1.41%
+pct_chg(2318)=9.76%
+pct_chg(2388)=11.74%
+```
+
 ## Reference:
 https://www.backtrader.com/docu/quickstart/quickstart.html
 
