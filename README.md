@@ -18,4 +18,5 @@
 
 ## Reference:
 https://www.backtrader.com/docu/quickstart/quickstart.html
+
 http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:chandelier_exit
